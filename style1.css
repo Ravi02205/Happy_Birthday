@@ -110,7 +110,7 @@ and (max-width : 480px) {
     }
 
     .mini-posts img{
-        /* width: 100%; */
+        width: 100%;
         background-size: cover;
     }
 }
