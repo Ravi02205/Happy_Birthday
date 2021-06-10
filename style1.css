@@ -109,4 +109,9 @@ and (max-width : 480px) {
         justify-content: center;
     }
 
+    .mini-posts img{
+        width: 100%;
+        background-size: cover;
+        
+    }
 }
