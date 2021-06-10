@@ -64,7 +64,7 @@ and (max-width : 480px) {
     }
     
     #intro center a img{
-        margin: auto;
+        left: 45px;
         top: 250px;
         border: 2px solid black;
     }
